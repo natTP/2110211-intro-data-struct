@@ -1,6 +1,7 @@
 /.vscode
 */.vscode
 *.zip
+/Slides
 
 # Prerequisites
 *.d
